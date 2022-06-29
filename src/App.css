@@ -4,3 +4,20 @@ body {
   background-color: #FFFAFB;
   font-family: 'Anek Latin', sans-serif;
 }
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+
+}
+
+.hero-banner-img {
+  position: absolute;
+  right: 40px;
+  top: 0px;
+  width: 700px;
+  height: 900px;
+  margin-top: -330px;
+
+}
